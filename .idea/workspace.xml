@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51305c4e-095e-4b9a-9f4f-f5f587380bdd" name="Default Changelist" comment="" />
+    <list default="true" id="51305c4e-095e-4b9a-9f4f-f5f587380bdd" name="Default Changelist" comment="FirstCommit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1l7IskXe5r2RZx0B6lzwPXqD05b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -58,6 +62,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22166428" />
@@ -284,12 +289,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606941921930</updated>
-      <workItem from="1606941925072" duration="4594000" />
+      <workItem from="1606941925072" duration="5338000" />
     </task>
+    <task id="LOCAL-00001" summary="FirstCommit">
+      <created>1606947117301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606947117301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FirstCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="FirstCommit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
